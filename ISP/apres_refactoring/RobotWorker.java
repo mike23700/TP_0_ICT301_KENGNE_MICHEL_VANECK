@@ -1,3 +1,5 @@
+package ict301.solid.isp;
+
 class RobotWorker implements Workable {
 
     @Override

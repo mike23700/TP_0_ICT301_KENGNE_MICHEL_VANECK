@@ -1,3 +1,5 @@
+package ict301.solid.srp;
+
 // Classe BookPrinter : présentation
 class BookPrinter {
 

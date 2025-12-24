@@ -1,4 +1,6 @@
-class HumanWorker implements Eatable {
+package ict301.solid.isp;
+
+class HumanWorker implements Worker {
 
     @Override
     public void work() {

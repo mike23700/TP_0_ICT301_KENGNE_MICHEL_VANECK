@@ -1,10 +1,4 @@
-class MongoDBDatabase implements Database {
-
-    @Override
-    public void save(String data) {
-        System.out.println("Saving to MongoDB: " + data);
-    }
-}
+package ict301.solid.dip;
 
 public class OrderProcessor {
 

@@ -1,4 +1,4 @@
-public class MainLsp2 {
+public class MainLsp {
     public static void main(String[] args) {
         Shape square = new Square(3);
         Shape rectangle = new Rectangle(3, 4);
